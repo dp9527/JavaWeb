@@ -54,7 +54,7 @@
 `html{background-color:white;}`浏览器能看到的所有范围 ，不包括边框。`body{background-color:green;}`与`html`一样，浏览器能看到的所有访问但无像`html`一样包括边框,级别`html>body`。
 
 eg:
-###:
+###
     <head>
     <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
     <title>无标题文档</title>
@@ -77,7 +77,7 @@ eg:
 上述代码效果：
 ![Image text](https://github.com/dp9527/JavaWeb/blob/master/body%7B%7D%E6%95%88%E6%9E%9C%E5%9B%BE.jpg)
 
-
+注：div中的px代表的是像素，是相对于屏幕分辨率来说的。
 
 
 
